@@ -1,4 +1,4 @@
-# template: caresi + rust + web
+# template: cartesi + rust + web
 
 ## dependencies
 
